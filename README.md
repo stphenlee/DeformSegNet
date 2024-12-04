@@ -1,2 +1,2 @@
 # DeformSegNet
-We will make the code public after the letter is accepted.
+The code will coming soon.
